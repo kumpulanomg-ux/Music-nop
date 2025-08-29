@@ -19,30 +19,23 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 import os
 
 class Config:
-    def __init__(self) -> None:   # ✅ تعديل هنا
-        self.API_ID: str = os.environ.get("API_ID", None)
-        self.API_HASH: str = os.environ.get("API_HASH", None)
-        self.SESSION: str = os.environ.get("SESSION", None)
-        self.BOT_TOKEN: str = os.environ.get("BOT_TOKEN", None)
-        self.SUDOERS: list = [
-            int(id) for id in os.environ.get("SUDOERS", " ").split() if id.isnumeric()
-        ]
-        if not self.SESSION or not self.API_ID or not self.API_HASH:
-            print("ERROR: SESSION, API_ID and API_HASH is required!")
-            quit(0)
+    def __init__(self) -> None:
+        # قيمك هنا مباشرة 👇
+        self.API_ID: str = "24514748"
+        self.API_HASH: str = "5dbe5df68358919d32cbfd341e0142f1"
+        self.SESSION: str = "BAF2ELwAv2zLyzl9IFRq8gWQJ1PHtohgta19i1Pb9viK8r_ZhZFmxXyCaGk3p8keTB6mEXjePGOTKX8FrMQyx_yJa5ah15-Mh_8TfnDslYAbVB0AGR0bD97Eygu4dUZUQkRhJqNnzsB-a2zbmxLOY-frL9baVoLtnVZj5sNz8JfUntuNIJPD__grAr8Rf1FLdfx9v-g77VVypjFJCTYVEke6eug2gGAwGH_eGJ0rh1GpkhEsZQa5lgGhCiIH3hoRG2BSPszRX_aSL9fcwl6RdO0xGbHg9kjFs-pZL9Fvz_QBNBIVUfxH-p5s7oqX8vYxLP_jo7--B07jteNlVIrf-VdCWeM35wAAAAHjwpdxAA"
+        self.BOT_TOKEN: str = "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"  # لو عندك بوت توكن حطه هنا
+        self.SUDOERS: list = [6334408675]
 
+        # باقي الإعدادات
         self.SPOTIFY: bool = False
-        self.QUALITY: str = os.environ.get("QUALITY", "high").lower()
-        self.PREFIXES: list = os.environ.get("PREFIX", ".").split()
-        self.LANGUAGE: str = os.environ.get("LANGUAGE", "ar").lower()
-        self.STREAM_MODE: str = (
-            "audio"
-            if (os.environ.get("STREAM_MODE", "audio").lower() == "audio")
-            else "video"
-        )
-        self.ADMINS_ONLY: bool = os.environ.get("ADMINS_ONLY", False)
-        self.SPOTIFY_CLIENT_ID: str = os.environ.get("SPOTIFY_CLIENT_ID", None)
-        self.SPOTIFY_CLIENT_SECRET: str = os.environ.get("SPOTIFY_CLIENT_SECRET", None)
+        self.QUALITY: str = "high"
+        self.PREFIXES: list = ["."]
+        self.LANGUAGE: str = "ar"   # ← اللغة عربي
+        self.STREAM_MODE: str = "audio"
+        self.ADMINS_ONLY: bool = False
+        self.SPOTIFY_CLIENT_ID: str = None
+        self.SPOTIFY_CLIENT_SECRET: str = None
 
 
-config = Config()   # ✅ هنا بيستدعي الكلاس
+config = Config()
