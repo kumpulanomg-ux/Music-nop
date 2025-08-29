@@ -1,117 +1,176 @@
-# Music nop
-
-<!-- شعار متحرك مخصص -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=30&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&height=60&lines=🌿+𝐕𝐄𝐆𝐀+𝐌𝐔𝐒𝐈𝐂+🌿;🎵+𝐄𝐆𝐘𝐏𝐓'𝐒+𝐅𝐈𝐑𝐒𝐓+𝐏𝐘𝐓𝐇𝐎𝐍+𝐓𝐄𝐀𝐌+🎵" alt="VEGA MUSIC Typing Animation">
-</div>
-
-
-<!-- بطاقة العنوان الرئيسي -->
-<h1 align="center" style="color: #22C55E; font-weight: 800; margin-bottom: 10px;">Music nop</h1>
-<p align="center" style="font-size: 18px; color: #94a3b8; margin-top: 0;">مستودع تم إنشاؤه تلقائياً بواسطة بوت فيجا ميوزك</p>
-
-<!-- شارات متقدمة مع إحصائيات حقيقية -->
-<div align="center">
-
-[![GitHub Release](https://img.shields.io/github/v/release/TopVeGa/Github?style=for-the-badge&color=22C55E&label=Release)](https://github.com/TopVeGa/Github/releases)
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-22C55E?style=for-the-badge&logo=python)](https://python.org)
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-22C55E?style=for-the-badge&logo=telegram)](https://t.me/Bi1ieBot)
-[![License](https://img.shields.io/badge/License-Proprietary-22C55E?style=for-the-badge)](https://t.me/Bi1ieBot)
-
-[![Stars](https://img.shields.io/github/stars/TopVeGa/Github?style=flat-square&color=22C55E&logo=github)](https://github.com/TopVeGa/Github/stargazers)
-[![Forks](https://img.shields.io/github/forks/TopVeGa/Github?style=flat-square&color=22C55E&logo=github)](https://github.com/TopVeGa/Github/forks)
-[![Issues](https://img.shields.io/github/issues/TopVeGa/Github?style=flat-square&color=22C55E&logo=github)](https://github.com/TopVeGa/Github/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/TopVeGa/Github?style=flat-square&color=22C55E&logo=github)](https://github.com/TopVeGa/Github/commits)
-
-</div>
-
-<!-- فاصل زخرفي -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
-</div>
-
-
-
-## 📖 من نحن
-
-<div align="center">
-
-فريق **VEGA** هو أول فريق مصري متخصص في لغة البرمجة Python 🐍، تأسس عام 2015 ويمتلك خبرة واسعة في مجال التطوير والبرمجة. نقدم محتوى تعليميًا عربيًا مميزًا من خلال قنواتنا لمساعدة المطورين العرب على تطوير مهاراتهم.
-
-</div>
-
-## 🌟 نبذة عن فيجا 
-
-<div align="center">
-
-منذ 2015 وإلى الآن، فريق VEGA يقدم محتوى برمجي عربي مميز من خلال قناته #Code:
-
-✨ تعلم بايثون من الصفر ✨ تطوير مواقع ويب ✨ علم البيانات والذكاء الاصطناعي ✨ أتمتة المهام ✨ مشاريع عملية حقيقية
-
-انضم لآلاف المتعلمين الذين بدؤوا رحلتهم البرمجية مع #Code!
-
-</div>
-
-<div align="center">
-
-| الميزة | الوصف |
-| :--- | :--- |
-| 🏆 **الريادة** | أول فريق مصري متخصص في تطوير بايثون |
-| 📚 **التعليم** | القناة الرسمية الرائدة في تعليم البرمجة عربيًا |
-| ⏳ **الخبرة** | خبرة تمتد منذ عام 2015 في مجال التطوير |
-| 🔐 **الجودة** | حلول برمجية احترافية وحصرية |
-
-</div>
-
-## 📝 خبر
-
-<div align="center">
-
-### 🎵 تجربة متقدمة
-
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<div style="background: linear-gradient(145deg, #1e293b, #0f172a); padding: 20px; border-radius: 15px; border-left: 4px solid #22C55E;">
-
-### 「 يتم نشر هذا المشروع علي / vps 」
-
-• يعمل هذا المشروع علي سيرفرات vps يدعم استرادات للتشغيل الفوري المباشر
-
-`sudo apt update && sudo apt upgrade -y`
-`sudo apt install python3-pip ffmpeg -y`
-`sudo pip3 install -U pip`
-</div>
-
-<div style="background: linear-gradient(145deg, #1e293b, #0f172a); padding: 20px; border-radius: 15px; border-left: 4px solid #22C55E;">
-
-</div>
-
-## ⚠️ تنويه
-
-<div align="center">
-
-يُمنع النسخ أو التوزيع أو التعديل دون إذن مسبق. جميع الحقوق محفوظة لفريق VEGA.
-
-</div>
-
-## 🛠️ أدوات تعليمية
-
-<div align="center">
-
-# 🛠️ Languages and tools☠︎︎
-</br>
-
-[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://VEGAOne.me)
-
-</div>
-
-## 📞 Contact ☠︎︎
-<p align="center">
-<a href="https://telegram.me/updatevega"><img src="https://img.shields.io/badge/-CHAT%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
+<h1 align= center><b>⭐️ Music Player ⭐️</b></h1>
+<h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
-<a href="https://telegram.me/VEGAOne"><img src="https://img.shields.io/badge/-VEGA%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
+<br>
+    <img src="https://img.shields.io/github/license/AsmSafone/MusicPlayer?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/AsmSafone/MusicPlayer?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/AsmSafone/MusicPlayer?style=for-the-badge" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/forks/AsmSafone/MusicPlayer?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/stars/AsmSafone/MusicPlayer?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/watchers/AsmSafone/MusicPlayer?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/commit-activity/w/AsmSafone/MusicPlayer?style=for-the-badge" alt="Commit Activity">
+    <img src="https://img.shields.io/github/issues/AsmSafone/MusicPlayer?style=for-the-badge" alt="Issues">
 </p>
+
+## ✨ <a name="features"></a>Features
+
+### ⚡️ Fast & Light
+
+Starts streaming your inputs while downloading and converting them. Also, it
+doesn't make produce files.
+
+### 👮🏻‍♀️ Safe and handy
+
+Restricts control and sensitive commands to admins.
+
+### 🗑 Clean and spam free
+
+Deletes old playing trash to keep your chats clean.
+
+### 😎 Has cool controls
+
+Lets you switch stream mode, loop, pause, resume, mute, unmute anytime.
+
+### 🖼 Has cool thumbnails
+
+Response your commands with cool thumbnails on the chat.
+
+### 😉 Streams whatever you like
+
+You can stream audio or video files, YouTube videos with any duration,
+YouTube lives, YouTube playlists and even custom live streams like radios or m3u8 links or files in
+the place it is hosted!
+
+### 📊 Streams in multiple places
+
+Allows you to stream different things in multiple chats simultaneously. Each
+chat will have its own song queue.
+
+### 🗣 Speaks different languages
+
+Music Player is multilingual and speaks [various languages](#languages),
+thanks to the translators.
+
+## 🚀 <a name="deploy"></a>Deploy
+
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://deploy.safone.dev)
+
+Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
+
+
+## ☁️ <a name="self_host"></a>Self Host
+
+- Legecy Method
+```bash
+$ git clone https://github.com/AsmSafone/MusicPlayer
+$ cd MusicPlayer
+$ sudo apt install git curl python3-pip ffmpeg -y
+$ pip3 install -U pip
+$ pip3 install -U -r requirements.txt
+$ cp sample.env .env
+# < edit .env with your own values >
+$ python3 main.py
+```
+Or you can use this One-Liner to save your time :
+
+```
+git clone https://github.com/AsmSafone/MusicPlayer && cd MusicPlayer && sudo apt install git curl python3-pip ffmpeg -y && pip3 install -U pip && pip3 install -U -r requirements.txt
+```
+Make sure to edit the .env file accordingly,
+```
+cp sample.env .env
+```
+Run it using,
+```
+python3 main.py
+```
+
+- Docker Build Method
+```bash
+$ git clone https://github.com/AsmSafone/MusicPlayer
+$ cd MusicPlayer
+$ cp sample.env .env
+# < edit .env with your own values >
+$ sudo docker build . -t musicplayer
+$ sudo docker run musicplayer
+```
+
+## ⚒ <a name="configs"></a>Configs
+
+- `API_ID`: Telegram app id from https://my.telegram.org/apps.
+- `API_HASH`: Telegram app hash from https://my.telegram.org/apps.
+- `SESSION`: Pyrogram string session. You can generate from [here](https://replit.com/@AsmSafone/genStr).
+- `SUDOERS`: ID of sudo users (separate multiple ids with space).
+- `BOT_TOKEN`: Telegram bot token from https://t.me/botfather. (optional)
+- `QUALITY`: Custom stream quality (high/medium/low) for the userbot in vc. Default: `high`
+- `PREFIX`: Bot commad prefixes (separate multiple prefix with space). Eg: `! /`
+- `LANGUAGE`: An [available](#languages) bot language (can change it anytime). Default: `en`
+- `STREAM_MODE`: An stream mode like audio or video (can change it anytime). Default: `audio`
+- `ADMINS_ONLY`: Put `True` if you want to make /play commands only for admins. Default: `False`
+- `SPOTIFY_CLIENT_ID`: Spotify client id get it from [here](https://developer.spotify.com/dashboard/applications). (optional)
+- `SPOTIFY_CLIENT_SECRET`: Spotify client secret get it from [here](https://developer.spotify.com/dashboard/applications). (optional)
+
+
+## 📄 <a name="commands"></a>Commands
+
+Command | Description
+:--- | :---
+• !ping | Check if alive or not
+• !start / !help | Show the help for commands
+• !mode / !switch | Switch the stream mode (audio/video)
+• !p / !play [song name or youtube link] | Play a song in vc, if already playing add to queue
+• !radio / !stream [radio url or stream link] | Play a live stream in vc, if already playing add to queue
+• !pl / !playlist [playlist link] | Play the whole youtube playlist at once
+• !skip / !next | Skip to the next song
+• !m / !mute | Mute the current stream
+• !um / !unmute | Unmute the muted stream
+• !ps / !pause | Pause the current stream
+• !rs / !resume | Resume the paused stream
+• !list / !queue | Show the songs in the queue
+• !mix / !shuffle | Shuflle the queued playlist
+• !loop / !repeat | Enable or disable the loop mode
+• !lang / language [language code] | Set the bot language in group
+• !ip / !import | Import queue from exported file
+• !ep / !export | Export the queue for import in future
+• !stop / !leave | Leave from vc and clear the queue
+• !update / !restart | Update and restart your music player
+
+## 🗣 <a name="languages"></a>Languages
+
+```text
+ar    Arabic
+bn    Bengali
+cn    Chinese
+de    German
+en    English
+fr    French
+hi    Hindi
+ja    Japanese
+nl    Dutch
+ru    Russian
+te    Telegu
+tr    Turkish
+```
+
+## 💜 <a name="contribute"></a>Contribute
+
+New languages, bug fixes and improvements following
+[our contribution guidelines](./CONTRIBUTING.md) are warmly welcomed!
+
+## 🛫 <a name="supports"></a>Supports
+
+For any kind of help join [our support group](https://t.me/AsmSupport) or raise an [issue](https://github.com/AsmSafone/MusicPlayer/issues).
+
+## ✨ <a name="credits"></a>Credits
+
+- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/MusicPlayer) 😬
+- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
+- [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) ❤️
+- And Thanks To All [Contributors](https://github.com/AsmSafone/MusicPlayer/graphs/contributors)! ❤️
+
+## 📃 <a name="license"></a>License
+
+Music Player is licenced under the GNU Affero General Public License v3.0.
+Read more [here](./LICENSE).
